@@ -1,4 +1,4 @@
-# The-Spark-Foundation
+# COVID-19 Case Analysis
 
 Data Source: <br>
   The Johns Hopkins University <br>
